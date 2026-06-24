@@ -1,5 +1,0 @@
-Benchmark 01: Mach 10 Hypersonic Flow Over a Flat Plate
-
-README Summary
-
-This benchmark investigates hypersonic flow over a sharp flat plate using ANSYS Fluent. The objective is to validate shock formation, boundary-layer development, and wake behavior against established compressible flow theory. Results demonstrate an attached leading-edge shock and flow features consistent with theoretical expectations for a sharp plate aligned with the freestream.
