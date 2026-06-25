@@ -1,0 +1,19 @@
+Mach 8 Flow Over a 6° Half-Angle Cone
+Objective
+
+Validate hypersonic flow predictions around a sharp cone and compare CFD shock angles with theoretical conical-flow solutions.
+
+Case Parameters
+Parameter	Value
+Mach Number	8
+Cone Half-Angle	6°
+Flow Type	Compressible
+Geometry	Axisymmetric Cone
+Solver	Density-Based
+Turbulence Model	SST k-ω (if turbulent)
+Expected Physics
+Attached conical shock wave
+Shock angle greater than cone angle
+Compression through the shock
+Surface pressure rise
+Hypersonic conical flow field
